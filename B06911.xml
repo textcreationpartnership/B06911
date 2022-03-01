@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Money makes the mare to go, or, An excellent new song of the suttle shirking sharpers, mountebanks, juglers, gamesters, and many others of the like faculty. To the tune of Four-pence-half-penny farthing. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06911</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[152]</idno>
+            <idno type="EEBO-CITATION">99887356</idno>
+            <idno type="PROQUEST">ocm99887356</idno>
+            <idno type="VID">182069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182069)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[152])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Money makes the mare to go, or, An excellent new song of the suttle shirking sharpers, mountebanks, juglers, gamesters, and many others of the like faculty. To the tune of Four-pence-half-penny farthing. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I[onah]. Deacon, at the Angel, in Guiltspur-street, without Newgate.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Tis money makes the mare to goe ..."</note>
+                  <note>Place, date of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182069:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>Money makes the Mare to go, OR, An Excellent new Song of the ſuttle ſhirking Sharpers, <hi>Mountebanks, Juglers, Gameſters,</hi> and many others of the like faculty.</head>
+            <opener>To the Tune of Four-pence-half-penny Farthing.</opener>
+            <p>This may be Printed, <hi>R. P.</hi>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>TIs Money makes the Mare to goe,</l>
+               <l>then who can live without it,</l>
+               <l>The Rich Men make a taring ſhow,</l>
+               <l>but poor men they are flouted:</l>
+               <l>
+                  <hi>Rich Men get money ſtill, they get money ſtill,</hi>
+               </l>
+               <l>
+                  <hi>when e're they get a bargain,</hi>
+               </l>
+               <l>
+                  <hi>The poor may pine, for want of coyn,</hi>
+               </l>
+               <l>
+                  <hi>they value them not a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The farmer he doth drudge and toyl,</l>
+               <l>and ſo muſt all about him,</l>
+               <l>He rides to market many a Mile,</l>
+               <l>there's none can live without him:</l>
+               <l>
+                  <hi>If he gets money by't, he gets money by't,</hi>
+               </l>
+               <l>
+                  <hi>he gets money by the bargain.</hi>
+               </l>
+               <l>
+                  <hi>Through thick and thin, and wet to the skin,</hi>
+               </l>
+               <l>
+                  <hi>he matters it not a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Shop-keeper will cog and lye,</l>
+               <l>believe him, you are undone,</l>
+               <l>He'l vow ſuch goods you cannot buy,</l>
+               <l>of ne'r a one in <hi>London:</hi>
+               </l>
+               <l>
+                  <hi>But he gets money by't, he gets money</hi>
+               </l>
+               <l>
+                  <hi>he gets money by'th bargain,</hi>
+               </l>
+               <l>
+                  <hi>Tho' he tells ye a lye, with a reaſon why,</hi>
+               </l>
+               <l>
+                  <hi>and vows he gets never a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Mountebank upon his Stage,</l>
+               <l>declares his skill in Phyſick.</l>
+               <l>No Pill prepar'd in this our age,</l>
+               <l>like his to cure the Ptiſick:</l>
+               <l>
+                  <hi>If he gets money by't, he gets money by't,</hi>
+               </l>
+               <l>
+                  <hi>he gets money by the bargain,</hi>
+               </l>
+               <l>
+                  <hi>For Twelve-pence ſtill, he'l ſell you a Pill,</hi>
+               </l>
+               <l>
+                  <hi>is hardly worth a farthing.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Beſides there is a Perjur'd crew,</l>
+               <l>for Money, if you'l crave it;</l>
+               <l>They'l ſwear the Crow is white or blew,</l>
+               <l>or what youl pleaſe to have it:</l>
+               <l>
+                  <hi>If he gets money by't, he get's money by't</hi>
+               </l>
+               <l>
+                  <hi>he gets money by'th, bargain,</hi>
+               </l>
+               <l>
+                  <hi>Though falſly he ſwears, till he looſe his ears,</hi>
+               </l>
+               <l>
+                  <hi>he value's it not a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Iugler he will Yawl aloud,</l>
+               <l>and make a thouſand faces,</l>
+               <l>Then after he hath call'd a Croud</l>
+               <l>hee'l Spue up Ribbons and laces,</l>
+               <l>
+                  <hi>When he gets money by't, he gets money by't,</hi>
+               </l>
+               <l>
+                  <hi>he gets money byt'h bargain,</hi>
+               </l>
+               <l>
+                  <hi>To ſhow you a trick with his Balls and Stick,</hi>
+               </l>
+               <l>
+                  <hi>for ev'ry penny and farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Beſides there is a Theeving crew,</l>
+               <l>that Robs both late and early,</l>
+               <l>At length to give the Deel his due,</l>
+               <l>Iack Ketch he hangs them fairly:</l>
+               <l>
+                  <hi>Thus he gets money by't, he gets money by't,</hi>
+               </l>
+               <l>
+                  <hi>he gets money by the bargain,</hi>
+               </l>
+               <l>
+                  <hi>If they have no cole, they into the hole,</hi>
+               </l>
+               <l>
+                  <hi>he vallues them not a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Gameſter muſt not be forgot,</l>
+               <l>for he above all other</l>
+               <l>When e're it happens to his lot,</l>
+               <l>hee'l ſtrive to Cheat his Brother,</l>
+               <l>
+                  <hi>If he gets money by't, he gets money by't,</hi>
+               </l>
+               <l>
+                  <hi>he gets money by the bargain,</hi>
+               </l>
+               <l>
+                  <hi>He'l Ramble abroad to cheat and defraud,</hi>
+               </l>
+               <l>
+                  <hi>yet vallue's it not a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Buxome Laſs ſhe comes to town,</l>
+               <l>when Guinneys may bewitch her,</l>
+               <l>'Tis ten to one er'e ſhe goes down,</l>
+               <l>but ſhe may crack her Pitcher;</l>
+               <l>
+                  <hi>Thus ſhe gets money by't, ſhe gets money by't,</hi>
+               </l>
+               <l>
+                  <hi>ſhe gets money by the bargain,</hi>
+               </l>
+               <l>
+                  <hi>She often hath ſaid, that her Maiden-head,</hi>
+               </l>
+               <l>
+                  <hi>ſhe vallued not a farthing.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The force of money I have told,</l>
+               <l>and now my Songs here ended,</l>
+               <l>To whom thoſe Ballads ſhall be ſold,</l>
+               <l>by them I am befriended</l>
+               <l>
+                  <hi>Thus I get money by't, I get money by't,</hi>
+               </l>
+               <l>
+                  <hi>get money by the bargain,</hi>
+               </l>
+               <l>
+                  <hi>Come every one that I may have done,</hi>
+               </l>
+               <l>
+                  <hi>their very well worth four farthings.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for. <hi>I. Deacon,</hi> at the <hi>Angel,</hi> in <hi>Guiltſpur-ſtreet,</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
